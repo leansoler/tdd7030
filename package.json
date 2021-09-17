@@ -1,0 +1,22 @@
+{
+  "name": "tdd7030",
+  "version": "1.0.0",
+  "description": "A project to learn TDD best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leansoler/tdd7030.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leansoler/tdd7030/issues"
+  },
+  "homepage": "https://github.com/leansoler/tdd7030#readme",
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
